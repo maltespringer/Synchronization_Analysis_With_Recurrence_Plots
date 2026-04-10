@@ -8,7 +8,7 @@ different types of synchronization such as complete, lag, phase and generalized 
 
 ## Repository Structure
 In the folder analysis-scripts, you can find the Python code scripts which were used to simulate the time series data, conduct the analysis and produce the visualizations for the paper
-Three scripts are provided. Each tests **one** method on **each** type of synchronization types. The scripts provided are:
+three scripts are provided. Each tests **one** method on **each** type of synchronization types. The scripts provided are:
 1. tau_recurrence_rate_CPR: Tests $\tau$-recurrence rate and CRP which builds on the $\tau$-recurrence rate
 2. cross_recurrence_plots:
 3. joint_recurrence_plots_jpr:
