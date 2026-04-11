@@ -19,3 +19,4 @@ In the folder analysis-scripts, you can find the Python code scripts which were 
   - JRP_LS_Code.ipynb - Tests JRPs and JPR on lag synchronization
   - JRP_PS_Code.ipynb - Tests JRPs and JPR on phase synchronization
   - JPR_GS_Code.ipynb - Tests JPRs and JPR on generalized synchronization
+  - csv-Files contain stored data to produce plots
