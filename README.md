@@ -7,7 +7,7 @@ as well as Recurrence Quantification metrics such as $\tau$-recurrence rate, CPR
 different types of synchronization such as complete, lag, phase and generalized synchronization in time series data.
 
 ## Repository Structure
-In the folder analysis-scripts, you can find the Python code scripts which were used to simulate the time series data, conduct the analysis and produce the visualizations for the paper. The were produced by different authors and contain the following content:
+In the folder analysis-scripts, you can find the Python code scripts which were used to simulate the time series data, conduct the analysis and produce the visualizations for the paper. They were produced by different authors and contain the following content:
 
 * Authored by Malte Springer
   - tau_recurrence_CPR.ipynb - Tests the applicability of the $\tau$-recurrence rate and CPR on all types of synchronization
