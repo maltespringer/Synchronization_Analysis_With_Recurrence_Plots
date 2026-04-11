@@ -7,8 +7,15 @@ as well as Recurrence Quantification metrics such as $\tau$-recurrence rate, CPR
 different types of synchronization such as complete, lag, phase and generalized synchronization in time series data.
 
 ## Repository Structure
-In the folder analysis-scripts, you can find the Python code scripts which were used to simulate the time series data, conduct the analysis and produce the visualizations for the paper
-three scripts are provided. Each tests **one** method on **each** type of synchronization types. The scripts provided are:
-1. tau_recurrence_rate_CPR: Tests $\tau$-recurrence rate and CRP which builds on the $\tau$-recurrence rate
-2. cross_recurrence_plots:
-3. joint_recurrence_plots_jpr:
+In the folder analysis-scripts, you can find the Python code scripts which were used to simulate the time series data, conduct the analysis and produce the visualizations for the paper. The were produced by different authors and contain the following content:
+
+* Authored by Malte Springer
+  - tau_recurrence_CPR.ipynb - Tests the applicability of the $\tau$-recurrence rate and CPR on all types of synchronization
+
+* Authored by Zinan Lyu
+  - ...
+
+* Authored by Samuel Jaramillo
+  - JRP_LS_Code.ipynb - Tests JRPs and JPR on lag synchronization
+  - JRP_PS_Code.ipynb - Tests JRPs and JPR on phase synchronization
+  - JPR_GS_Code.ipynb - Tests JPRs and JPR on generalized synchronization
