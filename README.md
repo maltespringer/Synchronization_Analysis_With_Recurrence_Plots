@@ -10,10 +10,10 @@ different types of synchronization such as complete, lag, phase and generalized 
 In the folder analysis-scripts, you can find the Python code scripts which were used to simulate the time series data, conduct the analysis and produce the visualizations for the paper. They were produced by different authors and contain the following content:
 
 * Authored by Malte Springer
-  - tau_recurrence_CPR.ipynb - Tests the applicability of the $\tau$-recurrence rate and CPR on all types of synchronization
+  - tau_recurrence_CPR.ipynb - Tests the applicability of the tau-recurrence rate and CPR on all types of synchronization
 
 * Authored by Zinan Lyu
-  - ...
+  - cross_recurrence_plot_synchronization.ipynb - Tests the applicability of Cross Recurrence Plots to all types of synchronization
 
 * Authored by Samuel Jaramillo
   - JRP_LS_Code.ipynb - Tests JRPs and JPR on lag synchronization
